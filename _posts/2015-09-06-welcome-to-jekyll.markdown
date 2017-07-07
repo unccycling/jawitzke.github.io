@@ -11,5 +11,10 @@ The majority of my photography can be found on my [Instagram][instagram]. Please
 
 For this current Summer a friend of mine is letting me borrow their camera, while they are off on a photography trip in the Grand Tetons. She is much better than I, and you can see her photography at her [website][afp]. She is the oppostie of me, and prefers to shoot nature, but does portraits on occasion. 
 
+This blog will mainly be about photography, but also some posts about coding and cycling (my other hobbies).
+
+
+Thank you for viewing and I hope you enjoy
+
 [instagram]:   https://www.instagram.com/jacksonwitzke/
 [afp]:         http://www.alexisfairbanksphotography.com/
