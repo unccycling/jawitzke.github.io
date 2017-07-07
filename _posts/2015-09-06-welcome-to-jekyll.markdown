@@ -1,26 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-subtitle: "Feel home!"
-date:   2015-09-06 23:34:01
+title:  "Welcome to My Blog!"
+subtitle: "Thank You for Viewing"
+date:   2017-07-07 23:34:01
 categories: [design, tool]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hi and welcome to my blog. My name is Jackson Witzke and I am a Junior studying Computer Science and Information and Library Science at the University of North Carolina at Chapel Hill. I will be graduating in the Spring of 2019 with a Bachelors of Science with both degrees. Even though that can make for a busy schedule in my free time I like to do photography.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The majority of my photography can be found on my [Instagram][instagram]. Please feel free to scroll through and see if you enjoy some of it. I prefer to do portraits (for someone reason I think that taking pictures of people is much more interesting), but I also do nature pictures from time to time. 
 
-Jekyll also offers powerful support for code snippets:
+For this current Summer a friend of mine is letting me borrow their camera, while they are off on a photography trip in the Grand Tetons. She is much better than I, and you can see her photography at her [website][afp]. She is the oppostie of me, and prefers to shoot nature, but does portraits on occasion. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+[instagram]:   https://www.instagram.com/jacksonwitzke/
+[afp]:         http://www.alexisfairbanksphotography.com/
