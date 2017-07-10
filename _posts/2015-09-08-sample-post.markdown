@@ -37,4 +37,4 @@ I was also able to get some shots of Maria and Ishika just being themselves as w
 
 Although this pictures may seem minor and not very relavent. They have really helped me develop my style as a photographer and increase my skills in Lightroom.
 
-If you would like to contact me about getting your picture taken please feel free to [email](jawitzke14@gmail.com) me.
+If you would like to contact me about getting your picture taken please feel free to [email](mailto:jawitzke14@gmail.com) me.
