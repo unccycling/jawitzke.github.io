@@ -18,7 +18,7 @@ If you would like to contact me about getting your picture taken please feel fre
 
 Thank you for viewing and I hope you enjoy
 
-<div id="bottomfooter" style="position:absolute;top:830px;left:450px;width:1025px;color:$cloudy">
+<div>
 	  <p>
      		<script>
 						var week_days = new Array(8);
