@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to My Blog!"
 subtitle: "Thank You for Viewing"
 date:   2017-07-07 23:34:01
-categories: [photography]
+categories: [photography, cycling]
 ---
 Hi and welcome to my blog. My name is Jackson Witzke and I am a Junior studying Computer Science and Information and Library Science at the University of North Carolina at Chapel Hill. I will be graduating in the Spring of 2019 with a Bachelors of Science with both degrees. Even though that can make for a busy schedule in my free time I like to do photography.
 
