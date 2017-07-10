@@ -17,7 +17,7 @@ I was in Provo, visiting a friend of mine that goes to BYU, and I had just hiked
 I had known that the Tour de Utah was going on at the time, but I had not realized how close I was to it until I did some googling that night. Provo and Park City are only about 20 minutes away, and the stage in Park City was the **Queen** stage of the event so I had to go. 
 
 The next morning I packed up my stuff and drove out to Park City and climbed up to Snowbird Ski Resort and waited for the riders to arrive.
-It was a pretty touhg stage and I got there early in the morning so I ended up sitting around and waiting for four or five hours watching the amature riders go on by. It was a really relaxing evening. 
+It was a pretty tough stage with a large amount of [climbing](http://cdn.media.cyclingnews.com/2016/06/13/2/tou_2016_stage_6_profile_vfinal_670.jpg) to be done. I got there early in the morning so I ended up sitting around and waiting for four or five hours watching the amature riders go on by. It was a really relaxing evening. 
 
 ![alt text](https://scontent.cdninstagram.com/t51.2885-15/e35/13707211_298160007211632_1818695979_n.jpg)
 
