@@ -65,23 +65,35 @@ Or You Can contact me using the following Contact Sheet:
 <div class="row rowdownsmall align-left"><input type="hidden" id="errorflagrow3" value=""/><div class="control-row"><div class="subitem col-lg-12 col-md-12 col-sm-12"><div class="textarea-container force_block"><textarea   id="id123-control30070355" name="control30070355" onclick=" InputActions(this,'row3');" onkeyup=" InputActions(this,'row3');  " onchange="InputRules(30070355); ;  " rows="4"  ></textarea></div></div><div class="clear"></div></div></div></div>
 </div>
 
-</form>
+<div class="row"><div class="subitem col-lg-12 col-md-12 col-sm-12"><div id="checkout_form_con"></div></div></div>
+<p><button type="submit" class="btn-u btn-brd btn-brd-hover btn-u-dark">Send Message</button></p>
+</div> 
+
+<input type="hidden" name="hiddenfields" id="hiddenfields" value=""/>
+		<input type="hidden" name="hiddenfields_pages" id="hiddenfields_pages" value=""/>
+		<input type="hidden" name="activepage" id="activepage" value="1"/>
+		<input type="hidden" name="totalpages" id="totalpages" value="1"/>
+		<input type="hidden" name="nextpagenr" id="nextpagenr" value="2"/>
+		<input type="hidden" name="prevpagenr" id="prevpagenr" value="0"/>
+		
+	</form>
 				</div>
 			</div>
 		</div>
 	
 
 		<ul class="social-icons">
-				<li><a href="#" data-original-title="Facebook" class="social_facebook rounded-x"></a></li>
-				<li><a href="#" data-original-title="Twitter" class="social_twitter rounded-x"></a></li>
-				<li><a href="#" data-original-title="Google Plus" class="social_googleplus rounded-x"></a></li>
-				<li><a href="#" data-original-title="Pinterest" class="social_pintrest rounded-x"></a></li>
-				<li><a href="#" data-original-title="Linkedin" class="social_linkedin rounded-x"></a></li>
-			</ul>
+			<li><a href="#" data-original-title="Facebook" class="social_facebook rounded-x"></a></li>
+			<li><a href="#" data-original-title="Twitter" class="social_twitter rounded-x"></a></li>
+			<li><a href="#" data-original-title="Google Plus" class="social_googleplus rounded-x"></a></li>
+			<li><a href="#" data-original-title="Pinterest" class="social_pintrest rounded-x"></a></li>
+			<li><a href="#" data-original-title="Linkedin" class="social_linkedin rounded-x"></a></li>
+		</ul>
 			<span class="page-scroll"><a href="#intro"><i class="fa fa-angle-double-up back-to-top"></i></a></span>
 		</div>
 	</section>
-
+	
+	
 Thank you for viewing and I hope you enjoy
 
 <div>
