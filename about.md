@@ -19,8 +19,8 @@ If you would like to contact me about getting your picture taken please feel fre
 Thank you for viewing and I hope you enjoy
 
 <div>
-	  <p>
-     <script>
+	  <p style="color:dorian, text-align:center">
+     		<script>
 						var week_days = new Array(8);
 								week_days[1] = "Sunday";
 								week_days[2] = "Monday";
@@ -53,7 +53,7 @@ Thank you for viewing and I hope you enjoy
 								curr_year+=1900
 								document.write("Last updated on" + " " + curr_day + ", " 
 								+ curr_month + " " + curr_date + " " + curr_year)
-					  </script>
+		 </script>
            </p>
       </div>
 
