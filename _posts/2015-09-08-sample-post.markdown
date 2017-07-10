@@ -11,26 +11,20 @@ and we decided to have a mini-photoshoot
 
 ___
 
-A blockquote:
+Ishika talking about Mack:
 
-> We are Hitchhikers in the road of open source knowledge.
+> Mack is such a goofy dog. He just makes weird snarling noises and wiggles his hips back and forth. He is a puppy just full of anxiety. I hope that one day he will be able to relax.
 
 ## June 27th
 
-Duis lacinia commodo dui, vel aliquam metus hendrerit eu. Integer et scelerisque dui. Sed nec molestie quam. Donec sit amet nisl a massa commodo ultrices nec quis nunc. Aenean aliquet eu arcu adipiscing dignissim. Nunc dictum elit vitae dolor molestie aliquet.
+Sadly, it has been a longer than expected period of time since I have been able to do some photography, and June 27th is my most recent venture. It may have not been an *extravagent* adventure, but the pictures came out pretty well.
+This "Photoshoot" if that is what you want to call it, just started out as taking our roommates dogs out for a walk. However, we stumbled upon upsclae yard art next to the farmer's market. 
+
+Mack was very excited to get his picture taken. He hopped on top of a bench and posed for about five minutes; thus, producing absolutely magnificient pictures of the **Good Boy** himslef. 
+
+I was also able to get some shots of Maria and Ishika just being themselves as well as some solid pictures of the yard art.
 
 
-Example code:
-
-{% highlight javascript %}
-var light = new Light();
-var switchUp = new FlipUpCommand(light);
-var switchDown = new FlipDownCommand(light);
-var s = new Switch();
-
-s.storeAndExecute(switchUp);
-s.storeAndExecute(switchDown);
-{% endhighlight %}
 
 
 A list:
