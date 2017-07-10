@@ -22,6 +22,8 @@ This "Photoshoot" if that is what you want to call it, just started out as takin
 
 Mack was very excited to get his picture taken. He hopped on top of a bench and posed for about five minutes; thus, producing absolutely magnificient pictures of the **Good Boy** himslef. 
 
+![alt text](https://www.instagram.com/p/BV3W6diAM10/?taken-by=jacksonwitzke)
+
 I was also able to get some shots of Maria and Ishika just being themselves as well as some solid pictures of the yard art.
 
 
