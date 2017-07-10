@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Sample post from Daktilo"
-subtitle: "What you can do with it!"
-date:   2014-08-19 23:56:45
+title:  "June 27th Photography"
+subtitle: "Good Boys and Art"
+date:   2017-06-27 23:56:45
 categories: [tool]
 ---
 
-Just a sample post to show some of the *typography* elements supported from
-**daktilo** theme.
+On this day **Ishika**, **Maria**, and **Mack** went with me on a walk around Carrboro
+and we decided to have a mini-photoshoot
 
 ___
 
@@ -15,7 +15,7 @@ A blockquote:
 
 > We are Hitchhikers in the road of open source knowledge.
 
-## Header 2
+## June 27th
 
 Duis lacinia commodo dui, vel aliquam metus hendrerit eu. Integer et scelerisque dui. Sed nec molestie quam. Donec sit amet nisl a massa commodo ultrices nec quis nunc. Aenean aliquet eu arcu adipiscing dignissim. Nunc dictum elit vitae dolor molestie aliquet.
 
