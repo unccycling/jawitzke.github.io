@@ -70,25 +70,24 @@ Or You Can contact me using the following Contact Sheet:
 </div> 
 
 <input type="hidden" name="hiddenfields" id="hiddenfields" value=""/>
-		<input type="hidden" name="hiddenfields_pages" id="hiddenfields_pages" value=""/>
-		<input type="hidden" name="activepage" id="activepage" value="1"/>
-		<input type="hidden" name="totalpages" id="totalpages" value="1"/>
-		<input type="hidden" name="nextpagenr" id="nextpagenr" value="2"/>
-		<input type="hidden" name="prevpagenr" id="prevpagenr" value="0"/>
+			<input type="hidden" name="hiddenfields_pages" id="hiddenfields_pages" value=""/>
+			<input type="hidden" name="activepage" id="activepage" value="1"/>
+			<input type="hidden" name="totalpages" id="totalpages" value="1"/>
+			<input type="hidden" name="nextpagenr" id="nextpagenr" value="2"/>
+			<input type="hidden" name="prevpagenr" id="prevpagenr" value="0"/>
 		
-	</form>
-				</div>
-			</div>
+			</form>
 		</div>
+	</div>
 	
 
-		<ul class="social-icons">
-			<li><a href="#" data-original-title="Facebook" class="social_facebook rounded-x"></a></li>
-			<li><a href="#" data-original-title="Twitter" class="social_twitter rounded-x"></a></li>
-			<li><a href="#" data-original-title="Google Plus" class="social_googleplus rounded-x"></a></li>
-			<li><a href="#" data-original-title="Pinterest" class="social_pintrest rounded-x"></a></li>
-			<li><a href="#" data-original-title="Linkedin" class="social_linkedin rounded-x"></a></li>
-		</ul>
+	<ul class="social-icons">
+		<li><a href="#" data-original-title="Facebook" class="social_facebook rounded-x"></a></li>
+		<li><a href="#" data-original-title="Twitter" class="social_twitter rounded-x"></a></li>
+		<li><a href="#" data-original-title="Google Plus" class="social_googleplus rounded-x"></a></li>
+		<li><a href="#" data-original-title="Pinterest" class="social_pintrest rounded-x"></a></li>
+		<li><a href="#" data-original-title="Linkedin" class="social_linkedin rounded-x"></a></li>
+	</ul>
 			<span class="page-scroll"><a href="#intro"><i class="fa fa-angle-double-up back-to-top"></i></a></span>
 		</div>
 	</section>
