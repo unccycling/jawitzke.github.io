@@ -82,18 +82,6 @@ Or You Can contact me using the following Contact Sheet:
 		</div>
 	</section>
 
-
-<div class="row"><div class="subitem col-lg-12 col-md-12 col-sm-12"><div id="checkout_form_con"></div></div></div>
-
-<p><button type="submit" class="btn-u btn-brd btn-brd-hover btn-u-dark">Send Message</button></p>
-</div> 
-<input type="hidden" name="hiddenfields" id="hiddenfields" value=""/>
-		<input type="hidden" name="hiddenfields_pages" id="hiddenfields_pages" value=""/>
-		<input type="hidden" name="activepage" id="activepage" value="1"/>
-		<input type="hidden" name="totalpages" id="totalpages" value="1"/>
-		<input type="hidden" name="nextpagenr" id="nextpagenr" value="2"/>
-		<input type="hidden" name="prevpagenr" id="prevpagenr" value="0"/>
-
 Thank you for viewing and I hope you enjoy
 
 <div>
