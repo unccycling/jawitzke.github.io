@@ -35,30 +35,6 @@ I was also able to get some shots of Maria and Ishika just being themselves as w
 ![alt_text](https://scontent.cdninstagram.com/t51.2885-15/e35/19436311_1086209124812971_9035897371514372096_n.jpg)
 
 
-A list:
+Although this pictures may seem minor and not very relavent. They have really helped me develop my style as a photographer and increase my skills in Lightroom.
 
-- Praesent nisi elit, bibendum ut consectetur ac, aliquet in nunc
-- Donec ante est, volutpat in mi et, pulvinar congue dolor.
-- Quisque ultrices pulvinar sollicitudin.
-- Duis elementum odio eu euismod suscipit.
-- Integer enim lorem, interdum sit amet consectetur non, bibendum eget neque.
-
-A numbered list:
-
-1. Praesent nisi elit, bibendum ut consectetur ac, aliquet in nunc.
-2. Donec ante est, volutpat in mi et, pulvinar congue dolor.
-3. Quisque ultrices pulvinar sollicitudin.
-4. Duis elementum odio eu euismod suscipit.
-5. Integer enim lorem, interdum sit amet consectetur non, bibendum eget neque.
-
-Definition list:
-
-Curabitur cursus magna eu sem cursus
-: ac ultrices urna pharetra.
-: Duis scelerisque ipsum eu luctus elementum.
-
-Pellentesque habitant morbi tristique senectus
-: Curabitur malesuada lacus ac gravida porttitor
-: Duis sodales feugiat lorem et mollis.
-
-Want to suggest something? Please [Send me a request](https://github.com/kronik3r/daktilo/issues/new).
+If you would like to contact me about getting your picture taken please feel free to [email](jawitzke14@gmail.com) me.
