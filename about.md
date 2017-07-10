@@ -18,8 +18,8 @@ If you would like to contact me about getting your picture taken please feel fre
 
 Thank you for viewing and I hope you enjoy
 
-<div>
-	  <p style="color:dorian, text-align:center">
+<div id="bottomfooter" style="position:absolute;top:830px;left:450px;width:1025px;color:$cloudy">
+	  <p>
      		<script>
 						var week_days = new Array(8);
 								week_days[1] = "Sunday";
