@@ -24,6 +24,10 @@ Mack was very excited to get his picture taken. He hopped on top of a bench and 
 
 ![alt text](https://scontent.cdninstagram.com/t51.2885-15/e35/19425396_775681665924646_1377930688010911744_n.jpg)
 
+![alt text](https://scontent.cdninstagram.com/t51.2885-15/e35/19429166_1782314925413225_4340228159581454336_n.jpg)
+
+![alt text](https://scontent.cdninstagram.com/t51.2885-15/e35/19534281_1581096288590878_4265226734829305856_n.jpg)
+
 I was also able to get some shots of Maria and Ishika just being themselves as well as some solid pictures of the yard art.
 
 
