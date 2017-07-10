@@ -13,6 +13,8 @@ For this current Summer a friend of mine is letting me borrow their camera, whil
 
 This blog will mainly be about photography, but also some posts about coding and cycling (my other hobbies).
 
+If you would like to contact me about getting your picture taken please feel free to [email](mailto:jawitzke14@gmail.com) me. I am always happy to do commissions for parties, business headshots, graduation photos, or just if you want more pictures of yourself to show your kids one day!
+
 
 Thank you for viewing and I hope you enjoy
 
