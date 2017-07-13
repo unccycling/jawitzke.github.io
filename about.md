@@ -16,7 +16,7 @@ This blog will mainly be about photography, but also some posts about coding and
 If you would like to contact me about getting your picture taken please feel free to [email](mailto:jawitzke14@gmail.com) me. I am always happy to do commissions for parties, business headshots, graduation photos, or just if you want more pictures of yourself to show your kids one day!
 
 <!-- SnapWidget -->
-<iframe src="https://snapwidget.com/embed/408993" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:500px; height:400px"></iframe>
+<iframe src="https://snapwidget.com/embed/408993" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:800px; height:400px"></iframe>
 
 Thank you for viewing and I hope you enjoy
 
