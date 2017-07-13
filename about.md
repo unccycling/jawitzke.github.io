@@ -17,7 +17,6 @@ If you would like to contact me about getting your picture taken please feel fre
 
 <!-- SnapWidget -->
 <iframe src="https://snapwidget.com/embed/408993" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:800px; height:400px"></iframe>
-
 Thank you for viewing and I hope you enjoy
 
 <div>
