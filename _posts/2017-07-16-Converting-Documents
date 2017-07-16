@@ -8,7 +8,41 @@ categories: [Computers]
 
 ___
 
-Hey Im not really sure what he wants us to put in here yet so This is it for now! 
+## Learning to Script!
+
+Hello all, the written work that I added to my repository is a short story that I had written for English 121 that was suppose to be in a  
+similar style to that of Charles Dickens. It is a pretty sad story about a man named Mr. Hobson that has had a pretty rought time recently.  
+The story is a tad bit based off of true events. A good friend of mine, David "Dobs" Hobson, committe suicide fairley similarily to that  
+in the story. He however, was in high school. Anyways I hope you all enjoyed the [story](https://github.com/jawitzke/jawitzke-convert-documents/blob/master/story.md).  
+
+
+In order to get the convert the documents in mulitple formats I used pandoc and texlive. I created two variables. $INPUT which is the file
+that the user puts in, and $OUTPUT which is the input file name just without the .md. 
+{% highlight javascript %} INPUT=$1
+OUTPUT=$(echo -n $INPUT | head -c -3) {% endhighlight %}
+
+Then for the file types HTML, DOCX, and ODT I used the pandoc and echo commands such that:
+{% highlight javascript %} pandoc -o $OUTPUT.html $INPUT
+echo "Created new file in HTML format called $OUTPUT.html"{% endhighlight %}
+
+And for PDF I had to use texlive and pandoc such that:
+{% highlight javascript %} pandoc $INPUT --latex-engine=pdflatex -o $OUTPUT.pdf
+echo "Created new file in PDF fromat called $OUTPUT.pdf" {% endhighlight %}
+
+Lastly, for RTF I used pandoc such that:
+{% highlight javascript %} pandoc -s $INPUT -o $OUTPUT.rtf
+echo "Created new file in RTF format called $OUTPUT.rtf" {% endhighlight %}
+
+My resource are the follow:
+1. [Script](https://github.com/jawitzke/jawitzke-convert-documents/blob/master/jawitzke-convert-docs.sh)
+2. [Input file](https://github.com/jawitzke/jawitzke-convert-documents/blob/master/story.md)
+3. [Output file in HTML](https://github.com/jawitzke/jawitzke-convert-documents/blob/master/story.html)
+4. [Output file in DOCX](https://github.com/jawitzke/jawitzke-convert-documents/blob/master/story.docx)
+5. [Output file in ODT](https://github.com/jawitzke/jawitzke-convert-documents/blob/master/story.odt)
+6. [Output file in PDF](https://github.com/jawitzke/jawitzke-convert-documents/blob/master/story.pdf)
+7. [Output file in RTF](https://github.com/jawitzke/jawitzke-convert-documents/blob/master/story.rtf)
+8. [General Repository](https://github.com/jawitzke/jawitzke-convert-documents)
+
 
 
 
