@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jackson Witzke</title>
+    <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    <link>http://jawitzke.github.io/</link>
+    <atom:link href="http://jawitzke.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>2017-07-16 16:18:35 -0400</pubDate>
+    <lastBuildDate>2017-07-16 16:18:35 -0400</lastBuildDate>
+    <generator>Jekyll v</generator>
+    
+      <item>
+        <title>My Portfolio</title>
+        <description>&lt;p&gt;Here is a list in no particular order of my favorite pictures that I have taken so far. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent.cdninstagram.com/t51.2885-15/e35/19228445_441676272858867_1416062485701591040_n.jpg&quot; alt=&quot;alt text&quot; /&gt;
+&amp;#8220;Yellow Oranges&amp;#8221;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent.cdninstagram.com/t51.2885-15/e35/18950289_1473503186045354_762389723338506240_n.jpg&quot; alt=&quot;alt text&quot; /&gt;
+&amp;#8220;Egg and Avacado Toast&amp;#8221;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent.cdninstagram.com/t51.2885-15/e35/18808771_1167370976722373_181477177303236608_n.jpg&quot; alt=&quot;alt text&quot; /&gt;
+&amp;#8220;Bull City&amp;#8221;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent.cdninstagram.com/t51.2885-15/e35/17882593_178605605992784_6526717665476608000_n.jpg&quot; alt=&quot;alt text&quot; /&gt;
+&amp;#8220;Bees Bees Bees&amp;#8221;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent.cdninstagram.com/t51.2885-15/e35/17438657_425918387742465_2428663079421083648_n.jpg&quot; alt=&quot;alt text&quot; /&gt;
+&amp;#8220;Red Solo Truck&amp;#8221;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent.cdninstagram.com/t51.2885-15/e35/17125538_1315072765226674_1757045960875180032_n.jpg&quot; alt=&quot;alt text&quot; /&gt;
+&amp;#8220;Powerful Women: International Womens Day&amp;#8221;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div&gt;
+	  &lt;p&gt;
+     &lt;script&gt;
+						var week_days = new Array(8);
+								week_days[1] = &quot;Sunday&quot;;
+								week_days[2] = &quot;Monday&quot;;
+								week_days[3] = &quot;Tuesday&quot;;
+								week_days[4] = &quot;Wednesday&quot;;
+								week_days[5] = &quot;Thursday&quot;;
+								week_days[6] = &quot;Friday&quot;;
+								week_days[7] = &quot;Saturday&quot;;
+								
+						var month_array = new Array(13);
+								month_array[1] = &quot;January&quot;;
+								month_array[2] = &quot;February&quot;;
+								month_array[3] = &quot;March&quot;;
+								month_array[4] = &quot;April&quot;;
+								month_array[5] = &quot;May&quot;;
+								month_array[6] = &quot;June&quot;;
+								month_array[7] = &quot;July&quot;;
+								month_array[8] = &quot;August&quot;;
+								month_array[9] = &quot;September&quot;;
+								month_array[10] = &quot;October&quot;;
+								month_array[11] = &quot;November&quot;;
+								month_array[12] = &quot;December&quot;;
+								
+						var date_obj = new 	Date(document.lastModified)
+						var curr_day = week_days[date_obj.getDay() + 1]
+						var curr_month = month_array[date_obj.getMonth() + 1]
+						var curr_date = date_obj.getDate()
+						var curr_year = date_obj.getYear()	
+							if (curr_year &lt; 2000)
+								curr_year+=1900
+								document.write(&quot;Last updated on&quot; + &quot; &quot; + curr_day + &quot;, &quot; 
+								+ curr_month + &quot; &quot; + curr_date + &quot; &quot; + curr_year)
+					  &lt;/script&gt;
+           &lt;/p&gt;
+      &lt;/div&gt;
+
+</description>
+        <pubDate>2017-07-05 19:34:01 -0400</pubDate>
+        <link>http://jawitzke.github.io/photography/2017/07/05/Portfolio.html</link>
+        <guid isPermaLink="true">http://jawitzke.github.io/photography/2017/07/05/Portfolio.html</guid>
+        
+        
+        <category>photography</category>
+        
+      </item>
+    
+      <item>
+        <title>June 27th Photography</title>
+        <description>&lt;p&gt;On this day &lt;strong&gt;Ishika&lt;/strong&gt;, &lt;strong&gt;Maria&lt;/strong&gt;, and &lt;strong&gt;Mack&lt;/strong&gt; went with me on a walk around Carrboro
+and we decided to have a mini-photoshoot&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Ishika talking about Mack:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Mack is such a goofy dog. He just makes weird snarling noises and wiggles his hips back and forth. He is a puppy just full of anxiety. I hope that one day he will be able to relax.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;june-27th&quot;&gt;June 27th&lt;/h2&gt;
+
+&lt;p&gt;Sadly, it has been a longer than expected period of time since I have been able to do some photography, and June 27th is my most recent venture. It may have not been an &lt;em&gt;extravagent&lt;/em&gt; adventure, but the pictures came out pretty well.
+This &amp;#8220;Photoshoot&amp;#8221; if that is what you want to call it, just started out as taking our roommates dogs out for a walk. However, we stumbled upon upsclae yard art next to the farmer&amp;#8217;s market. &lt;/p&gt;
+
+&lt;p&gt;Mack was very excited to get his picture taken. He hopped on top of a bench and posed for about five minutes; thus, producing absolutely magnificient pictures of the &lt;strong&gt;Good Boy&lt;/strong&gt; himslef. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent.cdninstagram.com/t51.2885-15/e35/19425396_775681665924646_1377930688010911744_n.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent.cdninstagram.com/t51.2885-15/e35/19429166_1782314925413225_4340228159581454336_n.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent.cdninstagram.com/t51.2885-15/e35/19534281_1581096288590878_4265226734829305856_n.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was also able to get some shots of Maria and Ishika just being themselves as well as some solid pictures of the yard art.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent.cdninstagram.com/t51.2885-15/e35/19436580_1203528829775270_5243535519383552000_n.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent.cdninstagram.com/t51.2885-15/e35/19436311_1086209124812971_9035897371514372096_n.jpg&quot; alt=&quot;alt_text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Although this pictures may seem minor and not very relavent. They have really helped me develop my style as a photographer and increase my skills in Lightroom.&lt;/p&gt;
+
+&lt;p&gt;If you would like to contact me about getting your picture taken please feel free to &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#106;&amp;#097;&amp;#119;&amp;#105;&amp;#116;&amp;#122;&amp;#107;&amp;#101;&amp;#049;&amp;#052;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;email&lt;/a&gt; me.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div&gt;
+	  &lt;p&gt;
+     &lt;script&gt;
+						var week_days = new Array(8);
+								week_days[1] = &quot;Sunday&quot;;
+								week_days[2] = &quot;Monday&quot;;
+								week_days[3] = &quot;Tuesday&quot;;
+								week_days[4] = &quot;Wednesday&quot;;
+								week_days[5] = &quot;Thursday&quot;;
+								week_days[6] = &quot;Friday&quot;;
+								week_days[7] = &quot;Saturday&quot;;
+								
+						var month_array = new Array(13);
+								month_array[1] = &quot;January&quot;;
+								month_array[2] = &quot;February&quot;;
+								month_array[3] = &quot;March&quot;;
+								month_array[4] = &quot;April&quot;;
+								month_array[5] = &quot;May&quot;;
+								month_array[6] = &quot;June&quot;;
+								month_array[7] = &quot;July&quot;;
+								month_array[8] = &quot;August&quot;;
+								month_array[9] = &quot;September&quot;;
+								month_array[10] = &quot;October&quot;;
+								month_array[11] = &quot;November&quot;;
+								month_array[12] = &quot;December&quot;;
+								
+						var date_obj = new 	Date(document.lastModified)
+						var curr_day = week_days[date_obj.getDay() + 1]
+						var curr_month = month_array[date_obj.getMonth() + 1]
+						var curr_date = date_obj.getDate()
+						var curr_year = date_obj.getYear()	
+							if (curr_year &lt; 2000)
+								curr_year+=1900
+								document.write(&quot;Last updated on&quot; + &quot; &quot; + curr_day + &quot;, &quot; 
+								+ curr_month + &quot; &quot; + curr_date + &quot; &quot; + curr_year)
+					  &lt;/script&gt;
+           &lt;/p&gt;
+      &lt;/div&gt;
+</description>
+        <pubDate>2017-06-27 19:56:45 -0400</pubDate>
+        <link>http://jawitzke.github.io/photography/2017/06/27/june-27th.html</link>
+        <guid isPermaLink="true">http://jawitzke.github.io/photography/2017/06/27/june-27th.html</guid>
+        
+        
+        <category>photography</category>
+        
+      </item>
+    
+      <item>
+        <title>Learning HTML</title>
+        <description>&lt;hr /&gt;
+
+&lt;h2 id=&quot;spring-2017&quot;&gt;Spring 2017&lt;/h2&gt;
+
+&lt;p&gt;A cloud and network based company named One Source Integrations reached out to me to be lead developer on their website in order to help the company&amp;#8217;s online present. My previously web development skills were mediocre at best. However, through having to build and change the website many times due to changes in design opinion. &lt;/p&gt;
+
+&lt;p&gt;I still work the on the &lt;a href=&quot;http://www.osi.io/&quot;&gt;website&lt;/a&gt; today, and continue editing it and changing the design and layout of the website. I am currently struggling with the CSS and PHP on the contact form, but I will get it eventually. Feel free to stayed tuned on how the website develops.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ititch.com/wp-content/uploads/2012/10/smtp-server.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div&gt;
+	  &lt;p&gt;
+     &lt;script&gt;
+						var week_days = new Array(8);
+								week_days[1] = &quot;Sunday&quot;;
+								week_days[2] = &quot;Monday&quot;;
+								week_days[3] = &quot;Tuesday&quot;;
+								week_days[4] = &quot;Wednesday&quot;;
+								week_days[5] = &quot;Thursday&quot;;
+								week_days[6] = &quot;Friday&quot;;
+								week_days[7] = &quot;Saturday&quot;;
+								
+						var month_array = new Array(13);
+								month_array[1] = &quot;January&quot;;
+								month_array[2] = &quot;February&quot;;
+								month_array[3] = &quot;March&quot;;
+								month_array[4] = &quot;April&quot;;
+								month_array[5] = &quot;May&quot;;
+								month_array[6] = &quot;June&quot;;
+								month_array[7] = &quot;July&quot;;
+								month_array[8] = &quot;August&quot;;
+								month_array[9] = &quot;September&quot;;
+								month_array[10] = &quot;October&quot;;
+								month_array[11] = &quot;November&quot;;
+								month_array[12] = &quot;December&quot;;
+								
+						var date_obj = new 	Date(document.lastModified)
+						var curr_day = week_days[date_obj.getDay() + 1]
+						var curr_month = month_array[date_obj.getMonth() + 1]
+						var curr_date = date_obj.getDate()
+						var curr_year = date_obj.getYear()	
+							if (curr_year &lt; 2000)
+								curr_year+=1900
+								document.write(&quot;Last updated on&quot; + &quot; &quot; + curr_day + &quot;, &quot; 
+								+ curr_month + &quot; &quot; + curr_date + &quot; &quot; + curr_year)
+					  &lt;/script&gt;
+           &lt;/p&gt;
+      &lt;/div&gt;
+</description>
+        <pubDate>2017-04-06 19:34:01 -0400</pubDate>
+        <link>http://jawitzke.github.io/Computers/2017/04/06/Learning-HTML.html</link>
+        <guid isPermaLink="true">http://jawitzke.github.io/Computers/2017/04/06/Learning-HTML.html</guid>
+        
+        
+        <category>Computers</category>
+        
+      </item>
+    
+      <item>
+        <title>Tour de Utah</title>
+        <description>&lt;p&gt;In the summer of 2016, I took the opportunity to drive out to Colorado, Utah, and Wyoming. When I was in Utah the &lt;strong&gt;Tour de Utah&lt;/strong&gt; (a professional cycling race that features some of the best America riders) was going through Park City, so I had to go ans watch. &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;august-6th&quot;&gt;August 6th&lt;/h2&gt;
+
+&lt;p&gt;I was in Provo, visiting a friend of mine that goes to BYU, and I had just hiked a solid 10 mile hike and set up my campsite at a local area. This was the first time I had actually paid for a campsite, and I desperately needed it. There was a fire hazard warning and unless you were in an official campsite you were not allowed to have a fire going; thus, in order to eat my dehydrated food I needed an official campsite. &lt;/p&gt;
+
+&lt;p&gt;I had known that the Tour de Utah was going on at the time, but I had not realized how close I was to it until I did some googling that night. Provo and Park City are only about 20 minutes away, and the stage in Park City was the &lt;strong&gt;Queen&lt;/strong&gt; stage of the event so I had to go. &lt;/p&gt;
+
+&lt;p&gt;The next morning I packed up my stuff and drove out to Park City and climbed up to Snowbird Ski Resort and waited for the riders to arrive.
+It was a pretty tough stage with a large amount of &lt;a href=&quot;http://cdn.media.cyclingnews.com/2016/06/13/2/tou_2016_stage_6_profile_vfinal_670.jpg&quot;&gt;climbing&lt;/a&gt; to be done. I got there early in the morning so I ended up sitting around and waiting for four or five hours watching the amature riders go on by. It was a really relaxing evening. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent.cdninstagram.com/t51.2885-15/e35/13707211_298160007211632_1818695979_n.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When the riders eventually came by it was a sight for sore eyes seeing the contrast in the speed between the amatures and the professionals. It happened to be a very exciting &lt;a href=&quot;http://www.cyclingnews.com/races/tour-of-utah-2016/stage-6/results/&quot;&gt;race&lt;/a&gt; with Adrew Talanksy just beating out rival Adrian Costa.&lt;/p&gt;
+
+&lt;p&gt;Overall, it was a fun event to attend, and a good race to watch to enjoy my day before I made the journey to the Grand Tetons.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div&gt;
+	  &lt;p&gt;
+     &lt;script&gt;
+						var week_days = new Array(8);
+								week_days[1] = &quot;Sunday&quot;;
+								week_days[2] = &quot;Monday&quot;;
+								week_days[3] = &quot;Tuesday&quot;;
+								week_days[4] = &quot;Wednesday&quot;;
+								week_days[5] = &quot;Thursday&quot;;
+								week_days[6] = &quot;Friday&quot;;
+								week_days[7] = &quot;Saturday&quot;;
+								
+						var month_array = new Array(13);
+								month_array[1] = &quot;January&quot;;
+								month_array[2] = &quot;February&quot;;
+								month_array[3] = &quot;March&quot;;
+								month_array[4] = &quot;April&quot;;
+								month_array[5] = &quot;May&quot;;
+								month_array[6] = &quot;June&quot;;
+								month_array[7] = &quot;July&quot;;
+								month_array[8] = &quot;August&quot;;
+								month_array[9] = &quot;September&quot;;
+								month_array[10] = &quot;October&quot;;
+								month_array[11] = &quot;November&quot;;
+								month_array[12] = &quot;December&quot;;
+								
+						var date_obj = new 	Date(document.lastModified)
+						var curr_day = week_days[date_obj.getDay() + 1]
+						var curr_month = month_array[date_obj.getMonth() + 1]
+						var curr_date = date_obj.getDate()
+						var curr_year = date_obj.getYear()	
+							if (curr_year &lt; 2000)
+								curr_year+=1900
+								document.write(&quot;Last updated on&quot; + &quot; &quot; + curr_day + &quot;, &quot; 
+								+ curr_month + &quot; &quot; + curr_date + &quot; &quot; + curr_year)
+					  &lt;/script&gt;
+           &lt;/p&gt;
+      &lt;/div&gt;
+</description>
+        <pubDate>2016-08-06 19:34:01 -0400</pubDate>
+        <link>http://jawitzke.github.io/cycling/2016/08/06/tour-de-utah.html</link>
+        <guid isPermaLink="true">http://jawitzke.github.io/cycling/2016/08/06/tour-de-utah.html</guid>
+        
+        
+        <category>cycling</category>
+        
+      </item>
+    
+  </channel>
+</rss>
