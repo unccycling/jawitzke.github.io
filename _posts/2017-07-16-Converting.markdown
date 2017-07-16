@@ -3,7 +3,7 @@ layout: post
 title:  "Converting Documents"
 subtitle: "Writing Script to Convert Documents from Makrdown to Other Formats"
 date:   2017-07-05 23:34:01
-categories: [computers]
+categories: [Computers]
 ---
 
 ___
