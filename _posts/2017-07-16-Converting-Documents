@@ -33,8 +33,6 @@ Lastly, for RTF I used pandoc such that:
 {% highlight javascript %} pandoc -s $INPUT -o $OUTPUT.rtf
 echo "Created new file in RTF format called $OUTPUT.rtf" {% endhighlight %}
 
-Thank you for viewing.
-
 My resource are the follow:
 1. [Script](https://github.com/jawitzke/jawitzke-convert-documents/blob/master/jawitzke-convert-docs.sh)
 2. [Input file](https://github.com/jawitzke/jawitzke-convert-documents/blob/master/story.md)
