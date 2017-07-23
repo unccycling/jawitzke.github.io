@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Converting Documents"
-subtitle: "Writing Script to Convert Documents from Makrdown to Other Formats"
+subtitle: "Writing a script to collect and clean data"
 date:   2017-07-21 19:34:01
 categories: [Computers]
 ---
