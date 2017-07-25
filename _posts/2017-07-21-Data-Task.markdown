@@ -10,8 +10,7 @@ ___
 
 In Assignment Four for INLS 161 we had to create two scripts 1. One that took input from users and then stored their responses   to a CSV file.  2. A second script that allowed myself to write the information gathered into a MySQL database instead of into a   CSV file as the final output form.
 
-The data I gathered was very simple and just included the user typing in their date of birth and the location of where they were  
-born. This was collected by using the following code:
+The data I gathered was very simple and just included the user typing in their date of birth and the location of where they were  born. This was collected by using the following code:
 {% highlight javascript %} # Prompting Five Questions and storing input
 echo "1. Please type in the four digit year you were born in followed by [Enter]:"
 read YEAR
@@ -25,16 +24,14 @@ echo "5. Please type in the state you were born in followed by [Enter]:"
 read STATE
 {% endhighlight %}
 
-This prompted users to type in their input, read the input, and stored the input as the correspounding variables. Next I added  
-a the date of the input and a unique ID value to each input collection by using the following code:
+This prompted users to type in their input, read the input, and stored the input as the correspounding variables. Next I added a the date of the input and a unique ID value to each input collection by using the following code:
 {% highlight javascript%} #Putting date stamp
 INPUT_DATE=`date --iso-8601=seconds`
 #create unique identifier
 UUID=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 32 | head -n 1)
 {% endhighlight %}
 
-Next I wrote the data to a temporary csv file, read the csv file, and called the script that will write the csv file to the  
-database by using the following code:
+Next I wrote the data to a temporary csv file, read the csv file, and called the script that will write the csv file to the database by using the following code:
 {% highlight javascript %} #write data to tmp.csv
 echo "$UUID,$YEAR,$MONTH,$DAY,$CITY,$STATE,$INPUT_DATE" >./tmp.csv
 #Read out the data in the CSV file
@@ -43,12 +40,7 @@ cat tmp.csv
 bash ./write-to-db.sh
 {% endhighlight %}
 
-The Script that writes to a the CSV file first sets up the variables for the mysql username, password, mysql database, and  
-mysql table. I then move the data files to the mysql secure directory, so they can be inported into the table. I then check  
-to see if a mysql database and table have been created using if statements. If they are not created. I have them created.  
-This was mainly only needed to see if it is the first input, or else both would have been made. I then write the data from  
-the csv file into the database, dump the current version of the database into a sql file with the title being the date, and  
-reomve the temporary csv file from the mysql secure directory. This can be seen by the following code:
+The Script that writes to a the CSV file first sets up the variables for the mysql username, password, mysql database, and  mysql table. I then move the data files to the mysql secure directory, so they can be inported into the table. I then check  to see if a mysql database and table have been created using if statements. If they are not created. I have them created. This was mainly only needed to see if it is the first input, or else both would have been made. I then write the data from the csv file into the database, dump the current version of the database into a sql file with the title being the date, and reomve the temporary csv file from the mysql secure directory. This can be seen by the following code:
 {% highlight javascript %} #!/bin/bash
 #setting credentials as variables
 USER=root
