@@ -10,14 +10,10 @@ ___
 
 ## Learning to Script!
 
-Hello all, the written work that I added to my repository is a short story that I had written for English 121 that was suppose to be in a  
-similar style to that of Charles Dickens. It is a pretty sad story about a man named Mr. Hobson that has had a pretty rought time recently.  
-The story is a tad bit based off of true events. A good friend of mine, David "Dobs" Hobson, committe suicide fairley similarily to that  
-in the story. He however, was in high school. Anyways I hope you all enjoyed the [story](https://github.com/jawitzke/jawitzke-convert-documents/blob/master/story.md).  
+Hello all, the written work that I added to my repository is a short story that I had written for English 121 that was suppose to be in a similar style to that of Charles Dickens. It is a pretty sad story about a man named Mr. Hobson that has had a pretty rought time recently. The story is a tad bit based off of true events. A good friend of mine, David "Dobs" Hobson, committe suicide fairley similarily to that in the story. He however, was in high school. Anyways I hope you all enjoyed the [story](https://github.com/jawitzke/jawitzke-convert-documents/blob/master/story.md).  
 
 
-In order to get the convert the documents in mulitple formats I used pandoc and texlive. I created two variables. $INPUT which is the file
-that the user puts in, and $OUTPUT which is the input file name just without the .md. 
+In order to get the convert the documents in mulitple formats I used pandoc and texlive. I created two variables. $INPUT which is the fil that the user puts in, and $OUTPUT which is the input file name just without the .md. 
 {% highlight javascript %} INPUT=$1
 OUTPUT=$(echo -n $INPUT | head -c -3) {% endhighlight %}
 
