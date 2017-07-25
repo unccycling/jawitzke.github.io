@@ -8,7 +8,7 @@ categories: [Computers]
 
 ___
 
-In Assignment Four for INLS 161 we had to create two scripts 1. One that took input from users and then stored their responses   to a CSV file.  2. A second script that allowed myself to write the information gathered into a MySQL database instead of into a   CSV file as the final output form.
+In Assignment Four for INLS 161 we had to create two scripts 1. One that took input from users and then stored their responses   to a CSV file.  2. A second script that allowed myself to write the information gathered into a MySQL database instead of into a   CSV file as the final output form. My Github repository for this assignment can be found [here](https://github.com/jawitzke/jawitzke-data)
 
 The data I gathered was very simple and just included the user typing in their date of birth and the location of where they were  born. This was collected by using the following code:
 {% highlight javascript %} # Prompting Five Questions and storing input
