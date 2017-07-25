@@ -14,19 +14,19 @@ Hello all, the written work that I added to my repository is a short story that 
 
 
 In order to get the convert the documents in mulitple formats I used pandoc and texlive. I created two variables. $INPUT which is the fil that the user puts in, and $OUTPUT which is the input file name just without the .md. 
-{% highlight javascript %} INPUT=$1
+{% highlight bash %} INPUT=$1
 OUTPUT=$(echo -n $INPUT | head -c -3) {% endhighlight %}
 
 Then for the file types HTML, DOCX, and ODT I used the pandoc and echo commands such that:
-{% highlight javascript %} pandoc -o $OUTPUT.html $INPUT
+{% highlight bash %} pandoc -o $OUTPUT.html $INPUT
 echo "Created new file in HTML format called $OUTPUT.html"{% endhighlight %}
 
 And for PDF I had to use texlive and pandoc such that:
-{% highlight javascript %} pandoc $INPUT --latex-engine=pdflatex -o $OUTPUT.pdf
+{% highlight bash %} pandoc $INPUT --latex-engine=pdflatex -o $OUTPUT.pdf
 echo "Created new file in PDF fromat called $OUTPUT.pdf" {% endhighlight %}
 
 Lastly, for RTF I used pandoc such that:
-{% highlight javascript %} pandoc -s $INPUT -o $OUTPUT.rtf
+{% highlight bash %} pandoc -s $INPUT -o $OUTPUT.rtf
 echo "Created new file in RTF format called $OUTPUT.rtf" {% endhighlight %}
 
 My resource are the follow:
