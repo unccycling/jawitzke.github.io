@@ -81,7 +81,10 @@ sudo rm /var/lib/mysql-files/tmp.csv
 echo "Thank you for participating in this data collection."
 {% endhighlight %}
 
-
+Overall, I thought the assignment went pretty well, and I am happy with the way that it turned out. The following are the resources for my assignment:
+1. [Questions Script](https://github.com/jawitzke/jawitzke-data/blob/master/questions.sh
+2. [Database Script](https://github.com/jawitzke/jawitzke-data/blob/master/write-to-db.sh
+3. [Input sql File](https://github.com/jawitzke/jawitzke-data/blob/master/2017-07-25-input.sql
 
 
 ___
