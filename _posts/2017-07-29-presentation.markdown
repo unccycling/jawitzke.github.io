@@ -9,8 +9,13 @@ categories: [Computers]
 ___
 
 In this Assignment I made a presentation we had to create a well-formed presentation for use on scree. I added self-runnning audio embedded within the presentation that I recieved from [here](https://www.youtube.com/watch?v=1v6l1_lfFN0&t=39s). These assignment stregnthed my use of HTML skills while also learning how to create a better presentation than something that is on PowerPoint. 
+
 The [presentation](https://jawitzke.github.io/jawitzke-presentation/) is about 4 minutes longth explaining what the Tour de France is really all about. It goes into detail about the origins, the fans, the different competitions, and the stages. The presentation was made using Reveal.jg which I made a pretty good experience using and I felt quite happy with. I was able to add images, styles, and audio to the slides with ease and it all transitions very nicely, which allows for a wonderful presentation.
-I definitely think I will be using Reveal.js for presentations in the future.
+
+I definitely think I will be using Reveal.js for presentations in the future. Overall, I thought the assignment went pretty well, and I am happy with the way that it turned out. The following are the resources for my assignment:
+1. [Repository](https://github.com/jawitzke/jawitzke-presentation)
+2. [Presentation Code](https://github.com/jawitzke/jawitzke-presentation/blob/master/index.html)
+
 
 ___
 
